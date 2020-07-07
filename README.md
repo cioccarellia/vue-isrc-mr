@@ -1,3 +1,3 @@
 # test-imgsrc
-
-The issue is at 3:30 -> App.js
+See https://github.com/vuejs/vue/issues/11500 <br>
+The issue is at line #3 @ App.js
